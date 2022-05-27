@@ -1,4 +1,4 @@
-package curso.dio.metodos.java;
+package curso.dio.metodos.java.metodos;
 
 public class Mensagem {
 

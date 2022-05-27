@@ -1,5 +1,8 @@
-package curso.dio.metodos.java;
+package curso.dio.metodos.java.metodos;
 
+import curso.dio.metodos.java.metodos.Calculadora;
+import curso.dio.metodos.java.metodos.Emprestimo;
+import curso.dio.metodos.java.metodos.Mensagem;
 import curso.dio.metodos.java.sobrecarga.Quadrilatero;
 
 public class Main {
